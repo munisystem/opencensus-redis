@@ -1,4 +1,4 @@
-module Opencensus
+module OpenCensus
   module Redis
     VERSION = "0.1.0"
   end

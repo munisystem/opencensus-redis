@@ -5,7 +5,7 @@ require "opencensus/redis/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "opencensus-redis"
-  spec.version       = Opencensus::Redis::VERSION
+  spec.version       = OpenCensus::Redis::VERSION
   spec.authors       = ["Yuichi Saito"]
   spec.email         = ["munisystem@gmail.com"]
 
